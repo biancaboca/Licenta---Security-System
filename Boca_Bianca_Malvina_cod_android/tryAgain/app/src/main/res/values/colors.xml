@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="selected_item_background">#FFCDD2</color> <!-- Example selected color -->
+    <color name="non_selected_item_background">#FFFFFF</color> <!-- Example non-selected color -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
